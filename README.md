@@ -24,7 +24,7 @@
 
  <img src="https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif">
 
-  ### disgner skills👨‍🎨👨‍🔧
+  ## disgner skills👨‍🎨👨‍🔧
 <img src="https://camo.githubusercontent.com/bdb7731529e6563b08b823d27f981683f89fd666d434f6592cb901ba763277f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d2532334632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" alt="Figma" data-canonical-src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/23e718344a5caa9eb16fff1d42ed456c58883ab81948910003c46814b5ef6e7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61646f626525323070686f746f73686f702d2532333331413846462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d61646f626525323070686f746f73686f70266c6f676f436f6c6f723d7768697465" alt="Adobe Photoshop" data-canonical-src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&amp;logo=adobe%20photoshop&amp;logoColor=white" style="max-width: 100%;">   <img src="https://camo.githubusercontent.com/ce8f1ac12b8af181740a2eb67ea4586f5f1f4ea65339dbf0260e5dca009b0a37/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f62652532305072656d6965726525323050726f2d3939393946462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d41646f62652532305072656d6965726525323050726f266c6f676f436f6c6f723d7768697465" alt="Adobe Premiere" data-canonical-src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&amp;logo=Adobe%20Premiere%20Pro&amp;logoColor=white" style="max-width: 100%;"> 
 
  
